@@ -1,6 +1,6 @@
 .text
 	.code 32
-
+	;theory added
 	.global vector_start
 	.global vector_end
 
